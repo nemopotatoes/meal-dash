@@ -145,7 +145,7 @@ Don't forget to give the project a star! Thanks again!
 
 This project waas created by the following group of individuals - Swapnil and Jessie - for the 'Web Application Design' module in Nanyang Technological University (NTU).
 
-Project Link: [https://github.com/swapsmax/meal-dash](https://github.com/swapsmax/meal-dash)
+Project Link: [https://github.com/nemopotatoes/meal-dash](https://github.com/nemopotatoes/meal-dash)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
