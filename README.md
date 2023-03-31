@@ -153,6 +153,3 @@ Project Link: [https://github.com/swapsmax/meal-dash](https://github.com/swapsma
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: images/screenshot.png
-
-© 2022 Swapnil Bapat
-
